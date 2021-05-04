@@ -36,13 +36,37 @@
             "question" => "Perché il mio account è associato a un paese?",
 
             "answer" => "Il tuo account è associato a un paese (o territorio) nei Termini di servizio per poter stabilire due cose:
-            La società consociata Google che offre i servizi, tratta le tue informazioni ed è responsabile del rispetto delle leggi sulla privacy vigenti. Generalmente Google offre i propri servizi per i consumatori tramite una delle due società seguenti:
-            Google Ireland Limited, se gli utenti sono residenti nello Spazio economico europeo (paesi dell'Unione europea, oltre a Islanda, Liechtenstein e Norvegia) o in Svizzera.
-            Google LLC, con sede negli Stati Uniti, per il resto del mondo.
-            La versione dei termini che regola il nostro rapporto, che può variare in base alle leggi locali.
-            Tieni presente che i servizi Google sono fondamentalmente gli stessi a prescindere dalla società consociata che li offre o dal paese a cui è associato il tuo account.
 
-            Stabilire il paese associato al tuo account
+            <ol>
+
+                <li>
+
+                    La società consociata Google che offre i servizi, tratta le tue informazioni ed è responsabile del rispetto delle leggi sulla privacy vigenti. Generalmente Google offre i propri servizi per i consumatori tramite una delle due società seguenti:
+
+                    <ol type='a'>
+
+                        <li>
+                            Google Ireland Limited, se gli utenti sono residenti nello Spazio economico europeo (paesi dell'Unione europea, oltre a Islanda, Liechtenstein e Norvegia) o in Svizzera.
+                        </li>
+
+                        <li>
+                        Google LLC, con sede negli Stati Uniti, per il resto del mondo.
+                        </li>
+                    
+                    </ol>
+
+                    
+                </li>
+
+                <li>
+                    La versione dei termini che regola il nostro rapporto, che può variare in base alle leggi locali.
+                    Tieni presente che i servizi Google sono fondamentalmente gli stessi a prescindere dalla società consociata che li offre o dal paese a cui è associato il tuo account.
+                </li>
+
+            </ol>
+
+            <h3>Stabilire il paese associato al tuo account</h3>
+
             Quando crei un nuovo Account Google, lo associamo a un paese in base a dove è stato creato. Per quanto riguarda gli account creati almeno un anno fa, usiamo il paese da cui accedi solitamente ai servizi Google, in genere i servizi in cui hai trascorso più tempo nell'ultimo anno.
 
             I viaggi frequenti solitamente non influiscono sul paese associato al tuo account. Se ti trasferisci in un altro paese, potrebbe occorrere circa un anno per aggiornare l'associazione del paese.
