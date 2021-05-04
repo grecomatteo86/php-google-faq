@@ -104,6 +104,22 @@
 </head>
 <body>
 
+    <nav class=nav_section>
+        <div class="upper_nav">
+            <img src="https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg" alt="">
+            <p>Privacy e Termini</p>
+        </div>
+        <div class="lower_nav">
+            <ul class=links>
+                <li><a href="">Introduzione</a></li>
+                <li><a href="">Norme sulla privacy</a></li>
+                <li><a href="">Termini di servizio</a></li>
+                <li><a href="">Tecnologie</a></li>
+                <li><a href="">Domande frequenti</a></li>
+            </ul>
+        </div>
+    </nav>
+
     <div class=container>
         <?php foreach($faq as $val){
             echo "<h2>".$val["question"]."</h2>";
